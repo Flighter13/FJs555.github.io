@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 833.44 388.02">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #787878;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: LucidaSans-DemiItalic, 'Lucida Sans';
+        font-size: 150px;
+        font-style: italic;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m500,229.45l41.19,42.67-15.3,46.22-38.22.89-31.11-34.66-16-.89-20.45,71.11-24.89,33.23-34.66-4.79-115.56-128s-75.56-6.22-80-8c-4.44-1.78-26.67-28.44-26.67-28.44l-93.33-7.11L0,194.01l45-17.67,93.33-7.11s22.23-26.66,26.67-28.44c4.44-1.78,80-8,80-8L360.56,4.79l34.66-4.79,24.89,33.23,20.45,71.11,16-.89,31.11-34.66,38.22.89,15.3,46.22-41.19,42.67v70.88Z"/>
+  <text class="cls-3" transform="translate(252.38 251.83)"><tspan x="0" y="0">FJs</tspan></text>
+  <text class="cls-2" transform="translate(509 251.83)"><tspan x="0" y="0">555</tspan></text>
+</svg>
